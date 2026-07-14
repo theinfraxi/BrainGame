@@ -1,9 +1,3 @@
-Since you're a beginner, I would **not** jump directly into coding the games. Instead, treat this as a **software engineering project**. You'll spend around **15–25% of the project setting up**, and that investment will save you countless hours later.
-
-Based on your game list (24 games total), this is **not just a website**—it's effectively a full software product. I would build it the same way a professional game studio would.
-
----
-
 # Overall Development Roadmap
 
 ```
