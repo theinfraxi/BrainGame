@@ -1,29 +1,38 @@
----
+How to Start your game ...
 
-### Step 1: Run the commands
+### Step 1: Open Terminal
 
-Copy and run these one by one:
+Type:
 
-```bash
-cd braingame-app
+```text
+C:\Users\VICTUS\OneDrive\Documents\Projects\BrainGame\braingame-app
 ```
 
-```bash
+and simply press **Enter** 
+
+---
+
+### Step 2: Start local host
+
+Paste:
+
+```text
 npm run dev
 ```
 
+Just press **Enter**.
+
 ---
 
-### Step 2: Open the browser
+### Step 3: Open the browser
 
 It will show something like:
 
 ```text
-Local: http://localhost:5173/
+http://localhost:5173/
 ```
 
 Hold **Ctrl** and click the link, or copy it into Chrome.
 
 ---
-
 
